@@ -1,2 +1,2 @@
 # hello-world
-Test repository
+Finally it's FRIYAY!
